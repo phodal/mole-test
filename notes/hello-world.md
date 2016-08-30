@@ -8,19 +8,19 @@
 
 而如果你常写作的话，你会发现写作会帮助你连接一个又一个的知识点，构成你的知识网络。如下图所示：
 
-![Social Connect](http://phodal.github.io/images/social.jpg)
+![Social Connect](http://phodal.github.io/beautiful-content/images/social.jpg)
 
 这点是我在写《[全栈增长工程师指南](https://github.com/phodal/growth-ebook)》时最大的体会，并且它也反过来不断地促进我学习——因为它让我发现了我欠缺了一系列的知识。忘记了的重要内容，又再一次需要去回顾。如下图所示：
 
-![PID](http://phodal.github.io/images/pid.png)
+![PID](http://phodal.github.io/beautiful-content/images/pid.png)
 
 我们就会在这个过程中，不断地去存储那些我们觉得值得重要的东西。
 
-![Output is Input](http://phodal.github.io/images/input-is-output.png)
+![Output is Input](http://phodal.github.io/beautiful-content/images/input-is-output.png)
 
 你也可以将之视作为，精益这个陈词滥调：
 
-![Lean Principles](http://phodal.github.io/images/lean-principles.png)
+![Lean Principles](http://phodal.github.io/beautiful-content/images/lean-principles.png)
 
 我只是想说明：
 
